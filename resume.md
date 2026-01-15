@@ -10,7 +10,7 @@ http://www.linkedin.com/in/jishnukandala
 
 Data Scientist with a strong academic foundation in data analysis, statistics, and programming, combined with hands-on experience working with real-world datasets. Experienced in Python, R, SQL, and geospatial analysis, with a particular interest in applying data-driven insights to social, health, and urban challenges. Proven ability to translate complex data into clear, actionable findings.
 
-# Work Experience (only last 10 years)
+# Work Experience
 
 ## University of Washington (Seattle, Washington)
 
